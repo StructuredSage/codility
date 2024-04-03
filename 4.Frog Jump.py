@@ -8,7 +8,7 @@ def solution1(x,y,D):
         return v+1
     
 
-x = 1
-y = 7
-D = 4
+x = 1258
+y = 465413213548
+D = 1000
 print(solution1(x,y,D))
